@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+.kiit_png{
+    width: 30%;
+    /* align image to centre */
+    margin-top: 6%;
+    margin-left: 0%;
+
+}
+
+.subtitle{
+    animation:forwards;
+    text-align: center;
+    font-size:x-large;
+    font-style: oblique;
+    padding:0.8%;
+}
+.section{
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-color: rgb(19, 29, 41);
+			text-align: center;
+			color: rgb(204, 218, 235);
+}
+
+.conclusion{
+    margin-left: 30%;
+    height: 100px;
+    width:40%;
+    text-align: center;
+}
