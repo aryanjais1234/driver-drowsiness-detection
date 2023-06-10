@@ -1,4 +1,10 @@
 # Drowsiness Detection using Facial Landmarks
+## Demo Video
+
+
+Check out the demo video of the application on YouTube:
+
+[![Demo Video](https://img.youtube.com/vi/vSWVkapZOr0/0.jpg)](https://youtu.be/vSWVkapZOr0)
 
 This is a Python-based web application that detects drowsiness using facial landmarks. It utilizes computer vision techniques and a trained deep learning model to detect eyes and classify them as either open or closed. If closed eyes are detected for a certain duration, an alarm sound is played to alert the user.
 
